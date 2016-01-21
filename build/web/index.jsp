@@ -10,12 +10,15 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
+        <h1 align="center">Welcome</h1>
     <h1 align="center">IBM Interconnect 2016</h1>
+    <h1 align="center">Miracle Labs</h1>
+    
 </head>
 <body background="ibm-earnings.jpg">
     <div align="center" >
         <form action="servlet1" >
-            <h1>Welcome</h1>
+            
             <br>
             <b>First name:</b><input type="text" name="n1"> <br>
             <br>
