@@ -39,7 +39,7 @@ public class servlet1 extends HttpServlet {
             out.println("<title></title>");            
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Welcome to IBM Interconnect Mr." +str+ "</h1>");
+            out.println("<h1>Welcome to IBM Interconnect Mr." +str+str1+ "</h1>");
             out.println("</body>");
             out.println("</html>");
             
